@@ -177,7 +177,7 @@ Now that we have covered how to add, commit and push we will stop using the ESPL
 
 # Branching
 
-Inside this repository there are a couple small programming challenge that we will get to soon. Through them where you will learn about some more advanced features of Git, the basics of building a C project and also do some very basic programming exercises. The first step will be to start our C project. To do this you will need to get and merge the CMake project to your master branch, to do this we need to learn about branches and merging. First step it branching.
+Inside this repository there are a couple small programming challenges that we will get to soon. Through them where you will learn about some more advanced features of Git, the basics of building a C project and also do some very basic programming exercises. The first step will be to start our C project. To do this you will need to get and merge the CMake project to your master branch, to do this we need to learn about branches and merging. First step it branching.
 
 A Git branch essentially takes a copy of the current state of your git repository and allows you to change it seperate to the branch from which you branch. Confused?
 As the same implied, branching allows your to diverge your code base into a seperate "copy" that can be modified and later merged back into "core" of your repository.
