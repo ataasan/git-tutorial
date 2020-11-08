@@ -303,4 +303,3 @@ Now that we have solved that problem let us continue building our CMake project.
 To do so jump to the branch `compiling`.
 
 In your web browser, if you select the branch `compiling` you can read the README directly in the browser.
-hello
